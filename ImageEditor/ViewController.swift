@@ -89,7 +89,6 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
                                 self.infoText.text = i.value as? String
                                 self.infoText2.text = i.key as? String
                             }
-//                            self.infoText.text = exif as? String
                         }
                     }
                 }
